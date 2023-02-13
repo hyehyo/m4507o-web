@@ -1,13 +1,11 @@
 ---
-layout: page
+layout: indexx
 title: Home
 id: home
 permalink: /
 ---
 
-# Welcome! 🌱
-
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
+<!-- <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
 </p>
 
@@ -24,10 +22,10 @@ The easiest way to get started is to read this [step-by-step guide explaining ho
       {{ note.last_modified_at | date: "%Y-%m-%d" }} — <a class="internal-link" href="{{ note.url }}">{{ note.title }}</a>
     </li>
   {% endfor %}
-</ul>
+</ul> -->
 
-<style>
+<!-- <style>
   .wrapper {
     max-width: 46em;
   }
-</style>
+</style> -->
