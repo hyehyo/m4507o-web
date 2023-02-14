@@ -11,7 +11,7 @@ si en el cielo te viera volar yo volare
 de mi vida cara te has escondido eso es  
 
 yo que he sido mas que hoy me bastara  
-por que te vas de mi
+¿por que te vas de mi?
 
 tus señas veo  
 desde mi frente tira de mi  
