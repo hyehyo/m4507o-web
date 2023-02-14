@@ -26,4 +26,5 @@ asi entonces me olvidara
 si manana quisiera volar yo volare  
 ya no veo nada, que confundido estare  
 
-
+mis sauces aproblemados, no les importaba  
+un grupo vino enojado, los arrancaron  
